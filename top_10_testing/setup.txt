@@ -1,0 +1,19 @@
+OWASP Top 10 
+Injection: Attackers exploit insecure inputs (e.g., SQL injection).
+Broken Authentication: Flaws in authentication mechanisms, such as weak session management.
+Sensitive Data Exposure: Insufficient protection of sensitive data (e.g., encryption issues).
+XML External Entities (XXE): Vulnerabilities related to processing XML input.
+Broken Access Control: Improper access controls, allowing unauthorized access.
+Security Misconfiguration: Default configurations, unnecessary services, or insecure settings.
+Cross-Site Scripting (XSS): Injecting malicious scripts into web pages viewed by other users.
+Insecure Deserialization: Flaws in deserialization of data that can lead to remote code execution.
+Using Components with Known Vulnerabilities: Outdated or vulnerable libraries and components.
+Insufficient Logging & Monitoring: Failure to track and respond to security events.
+
+Brief summary of each web application vulnerability and risk
+As of 2021 ^^^
+
+To showcase how each of these can be discovered and exploited I am going to use the owasp broken web application
+This vm can be ran with your hypervisor of choice. 
+Can be downloaded from here ===============> https://sourceforge.net/projects/owaspbwa/
+
